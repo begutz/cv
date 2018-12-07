@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
+
+body {
+background-color: #212D40;
+color:white;
+font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+background-color: #212D40;
+border-style: none;
+border-top-style: dotted;
+border-top-color: #98ccd3;
+border-top-width: 8px;
+height: 1px;
+width: 10%
+}
+
+h1,h2,h3 {
+  color: #2F90A8;
+  font-family: 'Bitter', serif;
+}
+
+a, a:visited {
+  color: #64A6BD;
+}
+
+li {
+  margin-bottom: 3px;
+}
+
+.buttons {
+  font-family: 'Bitter', serif;
+  font: 14px;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 3px 6px 3px 6px;
+  border-top: 2px solid #CCCCCC;
+  border-right: 2px solid #333333;
+  border-bottom: 2px solid #333333;
+  border-left: 2px solid #CCCCCC;
+}
