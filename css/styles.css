@@ -29,6 +29,11 @@ li {
   margin-bottom: 3px;
 }
 
+footer {
+  margin-top: 20px;
+  font-size: 10px;
+}
+
 .buttons {
   font-family: 'Bitter', serif;
   font: 14px;
